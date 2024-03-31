@@ -6,10 +6,10 @@ quality gate fails, it will return a `255` status code. This can be used to fail
 a pipeline.
 
 ## Usage
-The _recommended_ way to use this project is with the published docker image on [DockerHub](https://hub.docker.com/r/thsmdt/sonarqube-qualitygate-check).
+The _recommended_ way to use this project is with the published docker image on [GitHub](https://github.com/thsmdt/sonarqube-qualitygate-check/pkgs/container/sonarqube-qualitygate-check).
 
 ### Docker-based
-You can find the docker image hosted on DockerHub.
+You can find the docker image hosted on GitHub.
 
 #### GitLab CI
 The recommended way to integrate this project in your GitLab CI pipeline is using the [ready-to-use component](https://gitlab.com/explore/catalog/thsmdt/sonarqube-qualitygate-check). This requires GitLab 16.2 or later.
